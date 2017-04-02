@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1080274052897",
+    "firebase_url": "https://admob-app-id-3769776524.firebaseio.com",
+    "project_id": "admob-app-id-3769776524",
+    "storage_bucket": "admob-app-id-3769776524.appspot.com"
+  },
+  "client": [
+  
+	
+	
+	
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080274052897:android:680aff8522356669",
+        "android_client_info": {
+          "package_name": "com.edutainmentapp.shapes.colors.paid.usa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080274052897-1nvik7crr1ee8a7d8kfbj8jhcpgi3ljb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edutainmentapp.shapes.colors.paid.usa",
+            "certificate_hash": "3848946e9fa58b9b8950443cae72797b00aa5e5f"
+          }
+        },
+        {
+          "client_id": "1080274052897-uhr10ao40m29qjd29h1t9oevc9knau47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4C7IrV1XXE-R3JAjvPE_8MzVzayB6yUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080274052897-uhr10ao40m29qjd29h1t9oevc9knau47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080274052897-vdr71i7g3j6pm83ua366ma94io6o33si.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edutainmentapp.shapes.colors.paid.usa",
+                "app_store_id": "1205413554"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
